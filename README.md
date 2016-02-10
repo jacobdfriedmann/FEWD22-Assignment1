@@ -9,7 +9,7 @@
 ###Description
 
 
-For the first assignment, you will begin creating the beginnings of your first website. Take what you've learned from class and build a portfolio site that showcases all of the projects you'll be completing over the next few weeks. Build two pages - an 'About Page' and a 'Portfolio' - that link to one another. Your 'About Page' should describe your mission and value proposition and your 'Portfolio' should include [screenshots](starter_code/images) with descriptions of the work you [will] do for Relaxr, Startup Matchmaker, and CitiPix. Don't worry if you can't come up with any text for the pages--we've provided you with [some sample copy](starter_code/sample_copy.txt) that you can use.
+For the first assignment, you will begin creating the beginnings of your first website. Take what you've learned from class and build a portfolio site that showcases all of the projects you'll be completing over the next few weeks. Build two pages - an 'About Page' and a 'Portfolio' - that link to one another. Your 'About Page' should describe your mission and value proposition and your 'Portfolio' should include [screenshots](images) with descriptions of the work you [will] do for Relaxr, Startup Matchmaker, and CitiPix. Don't worry if you can't come up with any text for the pages--we've provided you with [some sample copy](sample_copy.txt) that you can use.
 
 <br>
 
@@ -72,7 +72,7 @@ Here are examples of a simple "About" and "Portfolio" page that fulfill the assi
 
 1. Download the zip file for this repository
 2. Work on it
-3. Zip it back up
+3. Zip it back up, with the your name in the file (i.e. JacobFriedmann_Assignment1.zip)
 4. Submit it to [dropbox](https://www.dropbox.com/request/KE5YRxmvEpEfwqc0JLOy)
 
 ###Evaluation
